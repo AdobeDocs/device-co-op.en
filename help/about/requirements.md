@@ -12,7 +12,7 @@ Your company must meet these minimum standards before you can start using the Ex
 
 ## Requirements {#section-9cbcee3c7b4e4c49b4c0e2b26aec5fe9}
 
-Adobe reserves the right to deny any prospective customer membership to the Experience Cloud Device Co-op if Adobe determines that a prospective customer’s participation in the Device Co-op may (1) violate any applicable law; or (2) cause a material risk to the security or operations of Adobe or any of its customers.
+Talk to your [!DNL Adobe representative to get started]. Adobe reserves the right to deny any prospective customer membership to the Experience Cloud Device Co-op if Adobe determines that a prospective customer’s participation in the Device Co-op may (1) violate any applicable law; or (2) cause a material risk to the security or operations of Adobe or any of its customers.
 
 ## Experience Cloud requirements {#section-76218a50385d43e6b9323e49f598394a}
 
