@@ -89,7 +89,7 @@ Compare People and Unique Visitors side-by-side:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Compression </p> </td> 
-   <td colname="col2"> <p>Using a simple calculated metric you can see how much smaller the People metric is as a percentage of Unique Visitors. Click on the info icon next to "Compression" in the table above to see how to create this metric. </p> <p>People can be used in other calculated metrics in place of Unique Visitors. </p> </td> 
+   <td colname="col2"> <p>Using a simple calculated metric you can see how much smaller the People metric is as a percentage of Unique Visitors. Define the metric as 1 - (People / Unique Visitors). </p> <p>People can be used in other calculated metrics in place of Unique Visitors. </p> </td> 
   </tr> 
  </tbody> 
 </table>
