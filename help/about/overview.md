@@ -4,8 +4,8 @@ seo-description: The Adobe Experience Cloud Device Co-op is a program that lets 
 seo-title: Overview
 title: Overview
 uuid: 9e2502db-0dc6-4b0f-965f-71894fb1f9d4
+exl-id: 8195162c-fab4-49d8-8f6f-1e9ed96ffaa7
 ---
-
 # Overview{#overview}
 
 The Adobe Experience Cloud Device Co-op is a program that lets participants work together to better identify consumers across digital touch points while ensuring the highest level of privacy and transparency. The Experience Cloud Device Co-op empowers participating brands to recognize their consumers so they can deliver more personalized experiences across devices and apps at massive scale. The Device Co-op is a core service of the Adobe Experience Cloud. It is available to Adobe customers who use Analytics, Audience Manager, Media Optimizer, or Target.
@@ -42,4 +42,4 @@ These rules help address important privacy concerns commonly associated with cro
 
 ## Getting started {#section-53a47ffdc5bf47c88cedcb92dd65444b}
 
-Take a moment to review the [membership requirements](../about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43) if you want participate or to learn more about the [!DNL Device Co-op]. Also, see [Working with Device Co-op Data in Other Experience Cloud Solutions](../other-solutions/other-solutions.md#concept-46278a50cfca4e1ab83a3b35077a585f) for a summary of how other [!DNL Adobe] products used this data. 
+Take a moment to review the [membership requirements](../about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43) if you want participate or to learn more about the [!DNL Device Co-op]. Also, see [Working with Device Co-op Data in Other Experience Cloud Solutions](../other-solutions/other-solutions.md#concept-46278a50cfca4e1ab83a3b35077a585f) for a summary of how other [!DNL Adobe] products used this data.

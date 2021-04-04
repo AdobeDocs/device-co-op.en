@@ -4,8 +4,8 @@ seo-description: Feature releases, updates, or changes to the Device Co-op.
 seo-title: Experience Cloud Device Co-op release notes
 title: Experience Cloud Device Co-op release notes
 uuid: 337d7eee-12b1-4ba4-a63b-3ccb88b825f7
+exl-id: 831acbc6-fdb2-4ce0-b155-e91fbc36e7f5
 ---
-
 # Experience Cloud Device Co-op release notes{#experience-cloud-device-co-op-release-notes}
 
 Feature releases, updates, or changes to the Device Co-op.

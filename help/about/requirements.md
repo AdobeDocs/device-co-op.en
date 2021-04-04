@@ -4,8 +4,8 @@ seo-description: Your company must meet these minimum standards before you can s
 seo-title: Membership requirements
 title: Membership requirements
 uuid: 4295fa4e-1b9e-4323-bb79-48e548ca1167
+exl-id: 923ce9c5-7716-4c5a-95f2-05a81a05c9cf
 ---
-
 # Membership requirements{#membership-requirements}
 
 Your company must meet these minimum standards before you can start using the Experience Cloud Device Co-op.
@@ -73,4 +73,3 @@ Requires either of the following [!DNL Target] JavaScript libraries:
 
 * at.js (any version) 
 * mbox.js version 58 or later
-

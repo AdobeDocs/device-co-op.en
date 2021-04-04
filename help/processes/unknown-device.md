@@ -4,8 +4,8 @@ seo-description: When a person has devices that are not used to interact with yo
 seo-title: Unknown devices
 title: Unknown devices
 uuid: 18e69dad-bdb3-4ac1-a690-374aba1aa0a6
+exl-id: 7841bf32-7327-4981-86a2-600e2bfe5901
 ---
-
 # Unknown devices{#unknown-devices}
 
 When a person has devices that are not used to interact with your brand, those devices are called unknown devices.

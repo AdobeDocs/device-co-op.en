@@ -4,8 +4,8 @@ seo-description: The People metric is the count of people (or groups of devices)
 seo-title: People metric
 title: People metric
 uuid: 8e731779-044d-4d31-a19a-f579a9c8c471
+exl-id: e2e70461-19ab-49db-bd65-a3eb26c2d4a8
 ---
-
 # People metric{#people-metric}
 
 The People metric is the count of people (or groups of devices) based on Adobe's Device Graph. You can apply the People metric to identify visitors across their devices in Analysis Workspace.
@@ -149,4 +149,3 @@ mcdc-people-metric-apply.xml
 In Analysis Workspace, create a [project](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html), then drag the **[!UICONTROL People]** metric to the project table:
 
 ![](assets/people-metric.png)
-

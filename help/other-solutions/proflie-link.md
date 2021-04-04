@@ -4,12 +4,12 @@ seo-description: Device Graph data is available in Profile Link as a merge rule 
 seo-title: Audience Manager - Profile Link
 title: Audience Manager - Profile Link
 uuid: cebf40e5-9f0c-4e59-b4a7-73696fa2dadc
+exl-id: d1846b9a-3a57-40d4-94c2-331de2916000
 ---
-
 # Audience Manager - Profile Link{#audience-manager-profile-link}
 
 Device Graph data is available in Profile Link as a merge rule option. A merge rule lets you control the type of data Audience Manager uses for segmentation.
 
 Profile Link works with cross-device data sources to identify and collect traits for authenticated site visitors. It includes the Profile Merge Rules feature. With Profile Merge Rules you get control over the data sets used for segmentation and can target a person accurately across multiple devices.
 
-See the [Profile Link documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) for more information. 
+See the [Profile Link documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) for more information.

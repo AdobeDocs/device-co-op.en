@@ -4,8 +4,8 @@ seo-description: Descriptions and answers to common questions about the Identity
 seo-title: FAQ
 title: FAQ
 uuid: 490566e1-4d35-468c-8389-678f9ff02cc8
+exl-id: 6511e247-76a7-4960-944c-b49fd046fb28
 ---
-
 # FAQ{#faq}
 
 Descriptions and answers to common questions about the Identity Services Cooperative and the Identity Graph.
@@ -61,4 +61,4 @@ No. All members of the Cooperative get back value relative to what they put in. 
 
 **How will [!DNL Adobe] manage IP addresses if some countries consider an IP address as personal information?**
 
-The Device Co-op is first being released in the United States and Canada where IP address is not considered to be personal information. When the Cooperative is released in countries where IP address is considered to be personal information, the IP address will not be used. 
+The Device Co-op is first being released in the United States and Canada where IP address is not considered to be personal information. When the Cooperative is released in countries where IP address is considered to be personal information, the IP address will not be used.

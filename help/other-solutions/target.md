@@ -4,8 +4,8 @@ seo-description: Learn how to use Device Co-op data in Adobe Target activities.
 seo-title: Target - A/B tests, multivariate tests, and experience targeting
 title: Target - A/B tests, multivariate tests, and experience targeting
 uuid: c1b478a4-812e-41ee-913f-29666c5c7ec4
+exl-id: 6e630adf-faff-4fe4-b560-febd59964a5f
 ---
-
 # Target - A/B tests, multivariate tests, and experience targeting{#target-a-b-tests-multivariate-tests-and-experience-targeting}
 
 Learn how to use Device Co-op data in Adobe Target activities.
@@ -51,4 +51,4 @@ Marketers can choose to use the Device Co-op data per activity. Certain [!DNL Ta
 * An interest rate offer available only for a strict segment of visitors. 
 * Products allowed to be advertised only in a specific state (for example, an insurance policy with license restrictions).
 
-When marketers create audiences in [!DNL Target], they are alerted if the audience is not appropriate for Device Co-op data-enabled activities. Appropriate audiences include all visitors, new visitors, and returning visitors. 
+When marketers create audiences in [!DNL Target], they are alerted if the audience is not appropriate for Device Co-op data-enabled activities. Appropriate audiences include all visitors, new visitors, and returning visitors.

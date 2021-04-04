@@ -4,8 +4,8 @@ seo-description: About link sharing in the Device Graph.
 seo-title: Link sharing in the Device Graph
 title: Link sharing in the Device Graph
 uuid: 6c7202f0-c6d9-48a4-82ad-ee57d7a518a0
+exl-id: 91ecc493-89d8-40d6-a98b-c2349e25c854
 ---
-
 # Link sharing in the Device Graph{#link-sharing-in-the-device-graph}
 
 About link sharing in the Device Graph.
@@ -47,4 +47,4 @@ Maintaining consumer privacy and data integrity for [!DNL Device Co-op] members 
 
 ## Next steps {#section-ac6e61f1eb6e45b1bb4be8ece39147c7}
 
-Reading the documentation on identity, linking, and link sharing should give you a good sense of how the [!DNL Device Graph] assembles data internally. As a next step, we recommend taking a look at our documentation that describes how the concept of a *`known device`* delivers cross-device links to Device Co-op members. See [Known Devices](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) and [Unknown Devices](../processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40). 
+Reading the documentation on identity, linking, and link sharing should give you a good sense of how the [!DNL Device Graph] assembles data internally. As a next step, we recommend taking a look at our documentation that describes how the concept of a *`known device`* delivers cross-device links to Device Co-op members. See [Known Devices](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) and [Unknown Devices](../processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40).

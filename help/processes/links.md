@@ -4,8 +4,8 @@ seo-description: How the Device Graph analyzes deterministic and probabilistic d
 seo-title: Deterministic and probabilistic links
 title: Deterministic and probabilistic links
 uuid: 00693a0a-f73d-460d-84a4-b7c745b9fe0a
+exl-id: e9bd2b7a-7d39-425d-adbb-298944009fcc
 ---
-
 # Deterministic and probabilistic links{#deterministic-and-probabilistic-links}
 
 How the Device Graph analyzes deterministic and probabilistic data to build a map that links devices together.
@@ -68,4 +68,3 @@ However, deterministic data is important too. It can, for example, improve proba
 With both types of data, the Device Graph gives you a more comprehensive picture of a person's identity than with either type alone.
 
 ![](assets/link5.png)
-
