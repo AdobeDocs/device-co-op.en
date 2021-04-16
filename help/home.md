@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Adobe Experience Cloud Device Co-op Documentation
+description: Adobe Experience Cloud Device Co-op Documentation
 title: Adobe Experience Cloud Device Co-op Documentation
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
 exl-id: 6fab66de-127c-4267-9e55-4e3b74881b10
