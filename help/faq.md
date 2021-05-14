@@ -1,8 +1,6 @@
 ---
-description: Descriptions and answers to common questions about the Identity Services Cooperative and the Identity Graph.
-seo-description: Descriptions and answers to common questions about the Identity Services Cooperative and the Identity Graph.
-seo-title: FAQ
-title: FAQ
+description: Answers to common questions about the Device Co-op (Identity Services Cooperative and the Identity Graph).
+title: Device Co-op FAQ
 uuid: 490566e1-4d35-468c-8389-678f9ff02cc8
 exl-id: 6511e247-76a7-4960-944c-b49fd046fb28
 ---

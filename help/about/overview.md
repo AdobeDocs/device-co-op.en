@@ -28,9 +28,9 @@ we may not want to share info in this with customers who have not signed. Also, 
 
 In the [!DNL Device Co-op], [!DNL Adobe]:
 
-* **Is a data steward: **Device Co-op members do not share data directly with each other. Instead, [!DNL Adobe], acts as a broker to make device link data available to the co-op through the [!DNL Device Graph]. Device Co-op members get to work with this data through features in their enabled [!DNL Experience Cloud] solutions.
+* **Is a data steward:** Device Co-op members do not share data directly with each other. Instead, [!DNL Adobe], acts as a broker to make device link data available to the co-op through the [!DNL Device Graph]. Device Co-op members get to work with this data through features in their enabled [!DNL Experience Cloud] solutions.
 
-* **Believes in data fairness:** Equitable data sharing is an important concept in the Device Co-op. All [!DNL Device Co-op] members receive value relative to what they contribute. If you've never interacted with an anonymous person through a site visit or ad impression, you won't get any information about their devices in the [!DNL Device Graph]. The Device Co-op helps brands recognize familiar consumers using unfamiliar devices. 
+* **Believes in data fairness:** Equitable data sharing is an important concept in the Device Co-op. All [!DNL Device Co-op] members receive value relative to what they contribute. If you've never interacted with an anonymous person through a site visit or ad impression, you won't get any information about their devices in the [!DNL Device Graph]. The Device Co-op helps brands recognize familiar consumers using unfamiliar devices.
 
 * **Supports privacy standards:** [!DNL Device Graph] data does not include Personally Identifiable Information (PII). Excluding PII from the Device Graph helps [!DNL Adobe] uphold privacy standards and maintain the trust of co-op members and consumers alike.
 

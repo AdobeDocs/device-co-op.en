@@ -10,6 +10,7 @@ user-guide-description: The Adobe Experience Cloud Device Co-op is a digital coo
 
 + [Adobe Experience Cloud Device Co-op Documentation](home.md)
 + About the Device Co-op {#about}
+   + [End of life announcement](about/device-co-op-eol.md)
    + [Overview](about/overview.md)
    + [Membership requirements](about/requirements.md)
 + About the Device Graph {#device-graph}
