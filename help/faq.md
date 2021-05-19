@@ -16,7 +16,7 @@ The Device Co-op is a digital cooperative for participating Adobe Experience Clo
 
 The Device Co-op consists of two technologies:
 
-* **Experience Cloud ID Service:** This core service of the Adobe Experience Cloud provides a common ID for identifying consumers consistently across solutions, channels, experiences, and devices. 
+* **Experience Cloud ID Service:** This core service of the Adobe Experience Cloud provides a common ID for identifying consumers consistently across solutions, channels, experiences, and devices.
 * **Adobe Experience Cloud Device Co-op:** This technology links different devices used by a consumer or household.
 
 **How does the [!DNL Device Co-op] work?**
