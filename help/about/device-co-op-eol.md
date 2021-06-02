@@ -47,8 +47,7 @@ The following applications will be affected by the [!DNL Device Co-op] end of li
 
 ### For Adobe Analytics
 
-- Identity Service Private Graph
-- Field Based Stitching
+Alternatives to [!DNL Device Co-op] for Adobe Analytics include the Adobe Experience Platform Identity Service Private Graph and field-based stitching. Both features are supported under the Cross-Device Analytics (CDA) feature.
 
 ### For Adobe Audience Manager
 
@@ -58,9 +57,9 @@ Adobe Audience Manager maintains integrations with third-party device graph part
 
 There are no plans to modify the current [!DNL Audience Manager] data management platform (DMP) offering. However, the deprecation of third-party cookies will likely create scale challenges for most DMP users, and we’re helping our customers evolve their data management practices by reducing their dependencies on identifiers that face restrictions in the coming year. Marketing teams must build first-party data strategies focused on durable identifiers that include PII, which can be solved for with a Customer Data Platform (CDP).
 
-Adobe’s Real-time CDP reduces dependencies on third-party cookies and device IDs by expanding the set of identifiers available for audience creation to include PII (personally identifiable information). Foundational to Real-time CDP is the Real-time Customer Profile, which brings together person attribute data with behavioral data in real-time and allows marketers to create rich audience segments with patented data governance controls. Like Audience Manager, Real-time CDP powers insights and personalization use cases, but also generates more granular person-level insights and can activate audiences to a broader range of destinations spanning AdTech and martech, including paid media, social media, email, customer systems, and more.
+[!DNL Real-time CDP] reduces dependencies on third-party cookies and device IDs by expanding the set of identifiers available for audience creation to include PII (personally identifiable information). Foundational to [!DNL Real-time CDP] is the Real-time Customer Profile, which brings together person attribute data with behavioral data in real-time and allows marketers to create rich audience segments with patented data governance controls. Like Audience Manager, [!DNL Real-time CDP] powers insights and personalization use cases, but also generates more granular person-level insights and can activate audiences to a broader range of destinations spanning AdTech and martech, including paid media, social media, email, customer systems, and more.
 
-Real-time CDP will include access to Adobe Experience Platform Segment Match, which allows brands to expand their own first-party data sets through partnerships and achieve improved insights and personalization.
+[!DNL Real-time CDP] will include access to Adobe Experience Platform Segment Match, which allows brands to expand their own first-party data sets through partnerships and achieve improved insights and personalization.
 
 ### For Adobe Target
 
@@ -72,7 +71,7 @@ Adobe Advertising Cloud customers will no longer be able to use [!DNL Device Co-
 
 ## What existing capabilities and implementations can help my preparation for a cookie-less future?
 
-Your existing Visitor ID Service implementation powers Adobe Abnalytics' [Cross-Device Analytics (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) feature. If your existing declared ID is a hashed email, this can be used to power the following capabilities:
+Your existing Visitor ID Service implementation powers Adobe Analytics' [Cross-Device Analytics (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) feature. If your existing declared ID is a hashed email, this can be used to power the following capabilities:
 
 - Adobe Audience Manager [People-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 - Adobe Experience Platform Segment Match (Beta).
