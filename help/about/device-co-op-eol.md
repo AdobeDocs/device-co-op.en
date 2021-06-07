@@ -30,10 +30,6 @@ Starting June 11, 2021, Adobe will no longer renew [!DNL Device Co-op] contracts
 
 The [!DNL Device Co-op] program will end in 2022. The specific timing and date depends on when Google starts to block third-party cookies.
 
-## Are these dates subject to change?
-
-An announcement will be made in June 2021 regarding the impending deprecation of [!DNL Device Co-op] in 2022. These dates are subject to change.
-
 ## Which applications will be affected by the Device Co-op end of life?
 
 The following applications will be affected by the [!DNL Device Co-op] end of life procedures:
