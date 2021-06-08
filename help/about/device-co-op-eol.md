@@ -66,7 +66,7 @@ There are currently no alternatives available for [!DNL Target] because [!DNL Ta
 
 ### Adobe Advertising Cloud
 
-[!DNl Advertising Cloud] customers will no longer be able to use [!DNL Device Co-op] for cross-device audience targeting and measurement. With [!DNL Advertising Cloud], you will still be able to leverage Adobe's [!DNL Device Graph] partnership with [!DNL LiveRamp] to continue to perform these functions to the extent of [!DNL LiveRamp’s] ability and scale. You must allow your campaigns that are using [!DNL Device Co-op] to end, and then either switch to the [!DNL LiveRamp] device graph provider, or no longer leverage people-based targeting.
+[!DNL Advertising Cloud] customers will no longer be able to use [!DNL Device Co-op] for cross-device audience targeting and measurement. With [!DNL Advertising Cloud], you will still be able to leverage Adobe's [!DNL Device Graph] partnership with [!DNL LiveRamp] to continue to perform these functions to the extent of [!DNL LiveRamp’s] ability and scale. You must allow your campaigns that are using [!DNL Device Co-op] to end, and then either switch to the [!DNL LiveRamp] device graph provider, or no longer leverage people-based targeting.
 
 ## What existing capabilities and implementations can help my preparation for a cookie-less future?
 
