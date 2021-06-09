@@ -6,7 +6,7 @@ description: Learn about the end-of-life plans for the Device Co-op.
 ---
 # Device Co-op end-of-life FAQ
 
-This document provides answers to frequently asked questions about the Adobe Experience Cloud Device Co-op end-of-life (EOL) plan. When this plan goes into effect, Adobe will provide an advanced notice in the [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) and the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+This document provides answers to frequently asked questions about the Adobe Experience Cloud Device Co-op end-of-life (EOL) plan. When this plan goes into effect, Adobe will provide an advanced notice in the [Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) and the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## FAQ
 
@@ -55,7 +55,7 @@ You can use the [!DNL Analytics] [Cross-Device Analytics (CDA)](https://experien
 
 There are no plans to modify the current [!DNL Audience Manager Data Management Platform] (DMP). However, the deprecation of third-party cookies will likely create scale challenges for most DMP users. To help customers evolve their data management practices, Adobe is encouraging the reduction of dependencies on identifiers that will face restrictions in the coming year. Marketing teams must build first-party data strategies focused on durable identifiers that include personally identifiable information (PII), which can be solved for with [!DNL Real-time Customer Data Platform] (Real-time CDP).
 
-[!DNL Real-time CDP] reduces dependencies on third-party cookies and device IDs by expanding the set of identifiers available for audience creation to include PII. Foundational to [!DNL Real-time CDP] is Real-time Customer Profile, which brings together person attribute data with behavioral data in real-time and allows marketers to create rich audience segments with patented data governance controls. Like [!DNL Audience Manager], [!DNL Real-time CDP] powers insights and personalization use cases, but also generates more granular person-level insights and can activate audiences to a broader range of destinations spanning advertising technologies and marketing technologies, including paid media, social media, email, customer systems, and more.
+[!DNL Real-time CDP] reduces dependencies on third-party cookies and device IDs by expanding the set of identifiers available for audience creation to include PII. Foundational to [!DNL Real-time CDP] is Real-time Customer Profile, which brings together person attribute data with behavioral data in real-time and allows marketers to create rich audience segments with patented data governance controls. Like [!DNL Audience Manager], [!DNL Real-time CDP] powers insights and personalization use cases, but also generates more granular person-level insights and can activate audiences to a broader range of destinations spanning advertising technologies and marketing technologies, including paid media, social media, email, and customer systems.
 
 [!DNL Real-time CDP] will also include access to [Adobe Experience Platform Segment Match (Alpha)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en), which allows brands to expand their own first-party data sets through partnerships and achieve improved insights and personalization.
 
@@ -80,7 +80,7 @@ For [!DNL Audience Manager] and [!DNL Advertising Cloud] users, the data
 
 ## Is it mandatory to adopt other features?
 
-While adoption of other Adobe features is not mandatory, we strongly recommend that you start the implementation of other features as soon as possible to allow time and appropriate coordination in advance of [!DNL Device Co-op] deprecation.
+While adoption of other Adobe features is not mandatory, you should start the implementation of other features as soon as possible to allow time and appropriate coordination in advance of [!DNL Device Co-op] deprecation.
 
 ## By when do I have to adopt alternative solutions if I choose to?
 
