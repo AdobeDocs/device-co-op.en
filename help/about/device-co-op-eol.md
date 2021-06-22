@@ -3,6 +3,7 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 solution: Adobe Experience Cloud
 title: Device Co-op end-of-life FAQ
 description: Learn about the end-of-life plans for the Device Co-op.
+exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 ---
 # Device Co-op end-of-life FAQ
 
